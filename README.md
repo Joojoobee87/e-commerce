@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Joojoobee87/e-commerce.svg?branch=master)](https://travis-ci.org/Joojoobee87/e-commerce)
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome Joojoobee87,
