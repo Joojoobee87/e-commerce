@@ -1,1 +1,1 @@
-web: gunicorn broomy-ecommerce.wsgi:application
+web: gunicorn ecommerce.wsgi:application
